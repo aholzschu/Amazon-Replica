@@ -1,0 +1,74 @@
+
+body{
+    background-color: ;
+}
+
+.continue{
+    background-color: gold;
+    text-align: center;
+}
+
+
+.logo {
+    width: 103px;
+    height: 50px;
+    padding-top: 3%;
+    padding-left: 47.5%;
+    padding-bottom: 5%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+div{
+       background-color: white;
+       width: 300px;
+       border: 1px solid lightgrey;
+       padding-left: 20px;
+       padding-right: 20px;
+       padding-bottom: 5px;
+       margin: auto;
+       
+}
+
+.password {
+    display: inline-block;
+    margin-right: 60px;
+    text-decoration: none;
+    
+}
+
+.password1 {
+    width: 290px;
+}
+
+.need{
+    text-decoration: none;
+}
+
+.second{
+    text-align: center;
+    
+}
+
+.create{
+    background: lightgray
+}
+
+footer {
+    text-align: center;
+}
+
+.foot1 {
+   text-decoration: none;
+   margin-right: 20px;
+}
+
+.foot2{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.foot3{
+    text-decoration: none;
+    margin-right: 20px;
+}
